@@ -1,4 +1,4 @@
-# react_todo
+# react_food_app
 
 
 INSTALLATION
