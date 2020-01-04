@@ -23,3 +23,7 @@ Error on 'react-native start' , "error Invalid regular expression: "
   /.*\/__tests__\/.*/
 ];
 - save file and run npm start again!
+
+
+GUIDE:
+https://www.youtube.com/watch?v=U9T6YkEDkMo
